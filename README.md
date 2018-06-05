@@ -29,9 +29,11 @@ I expect us all to treat each other with respect and kindness.
 
 If things go wrong I believe we should look for systemic problems and fix them. Blaming individuals is not helpful.
 
-### Autonomy  
+### Trust  
 
 You're an adult so I'll treat you like one.  
+
+Feel free to work flexibly and/or remotely, as long as you're still able to do your job effectively.
 
 I believe people work best when they have autonomy. I will work to give people the *skills*, *context* and *permission* that autonomy requires. 
 
@@ -39,7 +41,7 @@ I believe people work best when they have autonomy. I will work to give people t
 
 I believe that people have a right to a life outside work and that people do their best work when they are rested. I do not expect you to work overtime except in truly exceptional circumstances.
 
-### Agile
+### Ways of working
 
 I subscribe to the principles of the [agile manifesto](http://agilemanifesto.org/). I particularly like this bit:  
 
@@ -47,6 +49,8 @@ I subscribe to the principles of the [agile manifesto](http://agilemanifesto.org
 software by doing it and helping others do it."*
 
 Following a process (scrum, kanban, etc.) is ok, but I hope that people  find what works for them, experiment and adapt, rather than always following the "rules".
+
+I'm keen for people to work together to solve problems to encourage learning, increase quality and avoid silos. I encourage you to use techniques such as mob programming, pair programming, code reviews and demos as appropriate.
 
 ## My Availability
 
